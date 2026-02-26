@@ -13,12 +13,12 @@ const personagem=[
 /* imprimir a descrição de cada personagem que esta sendo comparado e também apontar onde um personagem “vence” */
 for (let i = 0; i < personagem.length; i++) {
     for (let m = i+1; m < personagem.length; m++){
-        if (personagem[i].velocidade > personagem[m].velocidade)
+        if (personagem[i].velocidade > personagem[m].velocidade) 
             console.log(personagem[i].nome+ " é mais veloz que " + personagem[m].nome);
         else if (personagem [m].velocidade > personagem [i].velocidade)
             console.log(personagem[m].nome + " é mais veloz que " + personagem[i].nome);
         
-        if (personagem[i].forca > personagem[m].forca)
+        if (personagem[i].forca > personagem[m].forca) /*feijaocfarinha*/
             console.log(personagem[i].nome +" é mais forte que " + personagem[m].nome);
         else if (personagem[m].forca > personagem[i].forca)
             console.log(personagem[m].nome +" é mais forte que " + personagem[i].nome);

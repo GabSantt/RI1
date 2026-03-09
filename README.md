@@ -1,4 +1,4 @@
-Repositório de resolução do RI _ , atividade proposta pelo prof° Gerson na aula de Técnicas de Programção I.
+Repositório de resolução do RI1 , atividade proposta pelo prof° Gerson na aula de Técnicas de Programção I.
 O exercício aqui presente utiliza-se das aplicações em JavaScript, explorando os conceitos de Programção Orientada a Objetos.
 Em todos foram colocados comentários de Easter Eggs :)
 
